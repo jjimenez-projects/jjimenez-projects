@@ -17,7 +17,7 @@
 
 - 🏠 I am from Houston, TX 
 
-- 🌐 I am a Front-End Web Developer
+- 🌐 I am a Full-Stack Web Developer
 
 - ❗ Love being with my family, making things, and having fun coding
 
